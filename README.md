@@ -1,7 +1,8 @@
 # Reto IoT: Cardiac
 ## Equipo 9
-- Stephanie Herrera Cervantes
-- Alan Farid Hernández Sanmartin
+- Stephanie Herrera Cervantes A01798249
+- Alan Farid Hernández Sanmartín A01753660
+
   
 Descripcion general: Sistema IoT wearable basado en ESP32 para monitoreo biomédico en tiempo real mediante MQTT, InfluxDB y Grafana, con generación de alertas automáticas.
 
