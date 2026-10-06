@@ -21,7 +21,7 @@ Software y comunicación
 - Telegram / Email — Sistema de alertas.
 
 ## Estructura
-`` bash
+``` text
 wearable-iot/
 │
 ├── README.md
@@ -48,4 +48,4 @@ wearable-iot/
 │   └── architecture/
 │
 └── tests/
-``
+```
