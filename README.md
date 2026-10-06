@@ -14,6 +14,7 @@ Hardware
 - DS18B20 — Medición de temperatura corporal.
 - Sensor/variable de oxigenación corporal — Variable adicional enfocada en monitoreo deportivo y respiratorio.
 - Batería y elementos necesarios para hacer el dispositivo portable.
+
 Software y comunicación
 - MQTT / Mosquitto — Comunicación entre el wearable y el servidor.
 - InfluxDB 2 — Almacenamiento de datos biomédicos.
