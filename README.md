@@ -12,6 +12,7 @@ Componentes
 Hardware
 - ESP32 — Microcontrolador y conexión Wi-Fi.
 - MAX30102 — Medición de SpO₂ y frecuencia cardiaca.
+- MPU6500 - Medición de movimiento
 - DS18B20 — Medición de temperatura corporal.
 - Sensor/variable de oxigenación corporal — Variable adicional enfocada en monitoreo deportivo y respiratorio.
 - Batería y elementos necesarios para hacer el dispositivo portable.
